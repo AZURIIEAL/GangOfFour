@@ -1,0 +1,15 @@
+C:\AbinFiles\Assignments\DesignPatterns\DesignPatterns\Singleton\bin\Debug\net7.0\Singleton.exe
+C:\AbinFiles\Assignments\DesignPatterns\DesignPatterns\Singleton\bin\Debug\net7.0\Singleton.deps.json
+C:\AbinFiles\Assignments\DesignPatterns\DesignPatterns\Singleton\bin\Debug\net7.0\Singleton.runtimeconfig.json
+C:\AbinFiles\Assignments\DesignPatterns\DesignPatterns\Singleton\bin\Debug\net7.0\Singleton.dll
+C:\AbinFiles\Assignments\DesignPatterns\DesignPatterns\Singleton\bin\Debug\net7.0\Singleton.pdb
+C:\AbinFiles\Assignments\DesignPatterns\DesignPatterns\Singleton\obj\Debug\net7.0\Singleton.csproj.AssemblyReference.cache
+C:\AbinFiles\Assignments\DesignPatterns\DesignPatterns\Singleton\obj\Debug\net7.0\Singleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\AbinFiles\Assignments\DesignPatterns\DesignPatterns\Singleton\obj\Debug\net7.0\Singleton.AssemblyInfoInputs.cache
+C:\AbinFiles\Assignments\DesignPatterns\DesignPatterns\Singleton\obj\Debug\net7.0\Singleton.AssemblyInfo.cs
+C:\AbinFiles\Assignments\DesignPatterns\DesignPatterns\Singleton\obj\Debug\net7.0\Singleton.csproj.CoreCompileInputs.cache
+C:\AbinFiles\Assignments\DesignPatterns\DesignPatterns\Singleton\obj\Debug\net7.0\Singleton.dll
+C:\AbinFiles\Assignments\DesignPatterns\DesignPatterns\Singleton\obj\Debug\net7.0\refint\Singleton.dll
+C:\AbinFiles\Assignments\DesignPatterns\DesignPatterns\Singleton\obj\Debug\net7.0\Singleton.pdb
+C:\AbinFiles\Assignments\DesignPatterns\DesignPatterns\Singleton\obj\Debug\net7.0\Singleton.genruntimeconfig.cache
+C:\AbinFiles\Assignments\DesignPatterns\DesignPatterns\Singleton\obj\Debug\net7.0\ref\Singleton.dll
